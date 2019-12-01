@@ -1,0 +1,3 @@
+# ignore the .env file that holds secret environmental variables
+.env
+
